@@ -1,0 +1,117 @@
+[
+    {
+      "prompt": "What does HTML stand for?",
+      "choices": ["Hypertext Markup Language", "High-level Text Management Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyper Text Multilayer Language"],
+      "answer": "Hypertext Markup Language",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "Which programming language is commonly used for building dynamic web pages?",
+      "choices": ["Java", "Python", "JavaScript", "C++", "Ruby"],
+      "answer": "JavaScript",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "What is the purpose of the SQL language?",
+      "choices": ["Styling web pages", "Querying databases", "Creating graphics", "Managing server configurations", "Network routing"],
+      "answer": "Querying databases",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "What does the acronym API stand for?",
+      "choices": ["Automated Programming Interface", "Application Programming Interface", "Advanced Program Integration", "Automated Protocol Invocation", "Application Processing Interface"],
+      "answer": "Application Programming Interface",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "Which operating system is the kernel of the Android mobile operating system based on?",
+      "choices": ["Linux", "Windows", "iOS", "Unix", "DOS"],
+      "answer": "Linux",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "JavaScript is a case-sensitive language. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "True",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "CSS stands for Counter Style Sheets. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "False",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "The 'margin' property in CSS is used to control the space between elements. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "True",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "The 'for' loop is used for iterating over properties of an object in JavaScript. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "False",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "In Python, 'None' is equivalent to 'null' in JavaScript. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "True",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "What is the capital of France?",
+      "answer": "Paris",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "Who developed the theory of relativity?",
+      "answer": "Albert Einstein",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "difficulty": "starter"
+    },
+    {
+      "prompt": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "In which year did the Titanic sink?",
+      "answer": "1912",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "The Python programming language was named after a snake. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "True",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "The 'git' version control system was created by Linus Torvalds. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "False",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "The Java programming language originated from the island of Java. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "False",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "The 'NaN' value in JavaScript stands for 'Not a Number'. (True/False)",
+      "choices": ["True", "False"],
+      "answer": "True",
+      "difficulty": "advanced"
+    },
+    {
+      "prompt": "Which scientist is known for his contributions to the theory of evolution?",
+      "answer": "Charles Darwin",
+      "difficulty": "advanced"
+    }
+  ]
+  
